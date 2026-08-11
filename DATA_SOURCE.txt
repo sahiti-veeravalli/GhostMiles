@@ -1,0 +1,8 @@
+SOURCE
+City of Chicago Data Portal
+Dataset: Taxi Trips - 2026
+Dataset ID: 94nw-re7c
+Official URL: https://data.cityofchicago.org/Transportation/Taxi-Trips-2026/94nw-re7c
+
+Retrieved at runtime by app.py through:
+https://data.cityofchicago.org/resource/94nw-re7c.json
